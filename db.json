@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"data": "dbevents",
+ "events": [
+	{ "eventid": "000000", "eventtime": "20.55.16.236 12.05.2020", "temp": "38,6"},
+	{ "eventid": "000001", "eventtime": "20.55.19.24 12.05.2020",  "temp": "39,0"},
+	{ "eventid": "000002", "eventtime": "20.55.24.891 12.05.2020", "temp": "38,1"},
+	{ "eventid": "000006", "eventtime": "20.55.29.856 12.05.2020"}]
+									}
